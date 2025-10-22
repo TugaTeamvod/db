@@ -1,1 +1,1 @@
-url="https://github.com/TugaTeamvod/db/raw/refs/heads/main/banddos/maximus.db"
+url="https://github.com/TugaTeamvod/db/raw/refs/heads/main/banddos/teste.db"
